@@ -2,6 +2,8 @@
 
 The knapsack problem is a common optimization problem. In it, we have a knapsack or some form of container and a list of items as well as their weights and values. The knapsack has a maximum weight which it can carry. The goal is to maximize the total value of the items placed into the knapsack without going over the weight limit. There are many different variations of the problem. In our version, there was a list of items with their associated weights and costs as well as the integer quantity of each available item. 
 
+The knapsack problem is an especially common and useful optimization problem, so there exists a lot of benefit if it could be run with a quantum speedup. 
+
 # Usage
 To run a demo, run the command
 ```bash
