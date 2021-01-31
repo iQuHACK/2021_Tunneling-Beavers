@@ -21,7 +21,7 @@ We want to maximise our total cost that we can carry, the sum over i of ```v_i*x
 The ```x_i``` and ```y``` terms can be thought of as the state of qubits in the system. The constant factors in front of ```x_i``` and ```y``` are the bias terms, changing the probability amplitude of us measuring that state. The constant factor in front of the ```x_i*y``` term represents the coupling constant, which can be thought of as entangling two qubit states. Once the ground state is reached and a measurement is reached, the state collapses to our desired state, producing the solution.
 # To Do
 
-* Get the optimization to work. The code does not through errors however, the optimization is not always correct.
+* Get the optimization to work. The code does not throw errors however, the optimization is not always correct.
 
 # References
 
