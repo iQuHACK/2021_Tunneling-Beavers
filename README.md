@@ -3,6 +3,10 @@ The knapsack problem is a common optimization problem. In it, we have a knapsack
 
 # Usage
 To run a demo, run the command
+```bash
+python knapsack.py data/small.csv 50
+```
+where small.csv can be changed for very_small.csv or large.csv and 50 is the weight maximum.
 
 # Code Overview
 For our problem, we have the following Hamiltonian:
