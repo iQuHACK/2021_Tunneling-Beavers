@@ -24,4 +24,3 @@ The ```x_i``` and ```y``` terms can be thought of as the state of qubits in the 
 [1] Andrew Lucas, "Ising formulations of many NP problems", [doi:
 10.3389/fphy.2014.00005](https://www.frontiersin.org/articles/10.3389/fphy.2014.00005/full)
 
-[2]
